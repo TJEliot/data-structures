@@ -47,4 +47,7 @@ var Node = function(value) {
 
 /*
  * Complexity: What is the time complexity of the above functions?
+ addToTail is order of 1
+ remove is order of 1
+ contains is order of n
  */

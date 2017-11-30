@@ -8,7 +8,8 @@ var Graph = function() {
 Graph.prototype.addNode = function(node) {
 };
 
-// Return a boolean value indicating if the value passed to contains is represented in the graph.
+// Return a boolean value indicating if the value passed to contains 
+//is represented in the graph.
 Graph.prototype.contains = function(node) {
 };
 
@@ -16,7 +17,8 @@ Graph.prototype.contains = function(node) {
 Graph.prototype.removeNode = function(node) {
 };
 
-// Returns a boolean indicating whether two specified nodes are connected.  Pass in the values contained in each of the two nodes.
+// Returns a boolean indicating whether two specified nodes are connected.  
+//Pass in the values contained in each of the two nodes.
 Graph.prototype.hasEdge = function(fromNode, toNode) {
 };
 
